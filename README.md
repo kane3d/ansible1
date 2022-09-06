@@ -1,1 +1,2 @@
-# ansible1
+# ansible
+This is the new staging area for projects
